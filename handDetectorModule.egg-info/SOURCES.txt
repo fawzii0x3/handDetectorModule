@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+handDetectorModule/__init__.py
+handDetectorModule/handDetectorModule.py
+handDetectorModule.egg-info/PKG-INFO
+handDetectorModule.egg-info/SOURCES.txt
+handDetectorModule.egg-info/dependency_links.txt
+handDetectorModule.egg-info/top_level.txt

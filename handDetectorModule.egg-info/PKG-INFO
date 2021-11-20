@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: handDetectorModule
+Version: 0.1
+Summary: handmodule can detect and draw the shape of both hands
+Home-page: https://github.com/fawzii0x3/handDetectorModule
+Author: fawzii0x3
+Author-email: mbenchikha5@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: python :: 3
+Classifier: Operating System :: Os Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdawn
+License-File: LICENSE
+
+UNKNOWN
+
